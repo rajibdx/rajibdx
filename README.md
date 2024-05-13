@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @rajibdx
-- 👀 I’m interested in EXCEL, Python, SQL & Power BI
-- 🌱 I’m currently learning Streamlit, Python
-- 💞️ I’m looking to collaborate on any Python project in Data Analyst field
-- 📫 How to reach me you cn reach me @ rajibulalam@ymail.com
-- 😄 Pronouns: R-aa-Jib
-- ⚡ Fun fact: Did you know? The octocat, GitHub’s adorable mascot, was created by designer Simon Oxley. It’s a playful combination of an octopus and a cat, representing the collaborative and agile nature of open-source development. 🐙🐱
 <h1 align="center">Hi 👋, I'm Md Rajibul Alam</h1>
 <h3 align="center">A dedicated Trainee Data Analyst from Bangladesh.</h3>
 
